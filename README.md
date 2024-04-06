@@ -34,7 +34,6 @@ Objective: Use temperature data to predict potential frost events that could dam
 Data: The project utilizes temperature readings from various locations within a vineyard over multiple years.
 Usage:
 
-    bash
 
     python "Project 1 - Predicting Frost Risks for Vineyards.py"
 
@@ -44,6 +43,5 @@ Objective: Clean and preprocess raw nutritional data obtained from various food 
 Data: The dataset includes nutritional values like calories, fats, proteins, vitamins, and minerals.
 Usage:
 
-    bash
 
-python "Project 2 - Clean Nutritional Data.py"
+    python "Project 2 - Clean Nutritional Data.py"
