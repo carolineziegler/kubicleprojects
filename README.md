@@ -3,9 +3,9 @@
 This repository contains two Python projects developed as part of Kubicle data science training. Each project focuses on different aspects of data handling and analysis in Python.
 Projects Overview
 
-    Predicting Frost Risks for Vineyards - This project uses historical weather data to predict the risk of frost in vineyards, which is crucial for preventing crop damage.
+1. Predicting Frost Risks for Vineyards - This project uses historical weather data to predict the risk of frost in vineyards, which is crucial for preventing crop damage.
 
-    Clean Nutritional Data - This project involves cleaning and preparing nutritional data for analysis, ensuring the data is accurate and suitable for making health-related decisions.
+2. Clean Nutritional Data - This project involves cleaning and preparing nutritional data for analysis, ensuring the data is accurate and suitable for making health-related decisions.
 
 ## **Getting Started**
 Prerequisites
@@ -30,9 +30,9 @@ cd kubicle-projects
 ## **Project Details**
 ### **Project 1: Predicting Frost Risks for Vineyards**
 
-    Objective: Use temperature data to predict potential frost events that could damage vine crops.
-    Data: The project utilizes temperature readings from various locations within a vineyard over multiple years.
-    Usage:
+Objective: Use temperature data to predict potential frost events that could damage vine crops.
+Data: The project utilizes temperature readings from various locations within a vineyard over multiple years.
+Usage:
 
     bash
 
@@ -40,9 +40,9 @@ cd kubicle-projects
 
 ### **Project 2: Clean Nutritional Data**
 
-    Objective: Clean and preprocess raw nutritional data obtained from various food items.
-    Data: The dataset includes nutritional values like calories, fats, proteins, vitamins, and minerals.
-    Usage:
+Objective: Clean and preprocess raw nutritional data obtained from various food items.
+Data: The dataset includes nutritional values like calories, fats, proteins, vitamins, and minerals.
+Usage:
 
     bash
 
